@@ -9,7 +9,7 @@ I perform a previous exploration of the dataset to evaluate the quality of the d
 
 ## Dataset
 ### Source
-This dataset is original from the **Kaggle** platform, <a href = 'https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023'> here </a> is the link to download the latest version if you are interested. 
+This dataset is original from the **Kaggle** platform, <a href = 'https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023' target="_blank"> here </a> is the link to download the latest version if you are interested. 
 
 Kaggle is a popular online platform and community for data science and machine learning enthusiasts. It was founded in 2010 and has since become one of the largest and most well-known platforms for data science competitions, datasets, and collaboration among data scientists, machine learning engineers, and researchers.
 
@@ -45,58 +45,13 @@ Kaggle is a popular online platform and community for data science and machine l
 
 ## Exploration data
 ### Top 5 Youtubers
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    tr td:first-of-type {
-        text-align: center;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: center;">
-      <td>Ranking</td>
-      <td>Youtuber</td>
-      <td>Subscribers</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>T-Series</td>
-      <td>245000000</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>YouTube Movies</td>
-      <td>170000000</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>MrBeast</td>
-      <td>166000000</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Cocomelon - Nursery Rhymes</td>
-      <td>162000000</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>SET India</td>
-      <td>159000000</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
+| Ranking | Youtuber                  | Subscribers |
+|:-------:|---------------------------|-------------|
+| 1       | T-Series                  | 245 million |
+| 2       | YouTube Movies            | 170 million |
+| 3       | MrBeast                   | 166 million |
+| 4       | Cocomelon - Nursery Rhymes| 162 million |
+| 5       | SET India                 | 159 million |
 
 ### Qualitative variables
 * Top 5 Category:
